@@ -1,3 +1,4 @@
+AAAA
 ACL
 ACLs
 ADDR
@@ -122,6 +123,7 @@ CHANGELOG
 CKEditor
 CLI
 CMS
+CNAME
 CORS
 CPUs
 CRM
@@ -384,6 +386,7 @@ FPM
 FQCN
 FastRoute
 Fastly
+Fastly's
 Fastorder
 FieldCollection
 FieldSerializer
@@ -1961,6 +1964,7 @@ webserver
 wednesday
 whitespace
 whitespaces
+whatsmydns
 whoami
 wil
 wishlist
